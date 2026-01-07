@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Jeffin
 
-<!--
-**Jfin002/Jfin002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineer  
+⚡ Embedded Systems | IoT | PCB Design | VoIP  
+🛠️ Learning by building real-world systems  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Programming: C, Python  
+- Embedded: PIC, Arduino (learning STM32)  
+- Tools: MPLAB, HFSS, Power BI, PCB Design  
+- Networking & VoIP: 3CX, Basic Networking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 🔁 **RecycleSmart** – IoT-based reward system for bottle recycling  
+- ♿ **Motion-Based Message Conveyer** – Assistive communication system  
+- 📡 **Antenna Design using HFSS** – Simulation & performance analysis  
+
+### 🚀 Current Focus
+- Embedded firmware development  
+- Stronger GitHub consistency  
+- Industry-ready projects  
+
+📫 Connect with me on LinkedIn
+https://www.linkedin.com/in/jeffin-paul-9b3a0b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
