@@ -1,24 +1,21 @@
-## 👋 Hi, I'm Jeffin
+# 💫 About Me:
+I’m an Electronics & Communication Engineer with a strong interest in embedded systems, IoT, and PCB design. I enjoy turning ideas and datasheets into reliable, working hardware through hands-on projects.<br><br>I’ve worked with PIC and Arduino platforms, explored firmware development, and built systems that combine hardware, software, and communication. Alongside core electronics, I’m design-aware and value clear documentation and practical implementation.<br><br>I believe in learning by building, staying consistent, and continuously improving my skills to become industry-ready. I’m open to collaborating on embedded, IoT, and electronics-based projects.
 
-🎓 Electronics & Communication Engineer  
-⚡ Embedded Systems | IoT | PCB Design | VoIP  
-🛠️ Learning by building real-world systems  
 
-### 🔧 Tech Stack
-- Programming: C, Python  
-- Embedded: PIC, Arduino (learning STM32)  
-- Tools: MPLAB, HFSS, Power BI, PCB Design  
-- Networking & VoIP: 3CX, Basic Networking  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_j.e.f.f.i.n_?igsh=MWM5aTQ1cmZwNzdjMw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffin-paul-9b3a0b226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeffinjacob2002@gmail.com) 
 
-### 📌 Featured Projects
-- 🔁 **RecycleSmart** – IoT-based reward system for bottle recycling  
-- ♿ **Motion-Based Message Conveyer** – Assistive communication system  
-- 📡 **Antenna Design using HFSS** – Simulation & performance analysis  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jfin002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jfin002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfin002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 Current Focus
-- Embedded firmware development  
-- Stronger GitHub consistency  
-- Industry-ready projects  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📫 Connect with me on LinkedIn
-https://www.linkedin.com/in/jeffin-paul-9b3a0b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
+[![](https://visitcount.itsvg.in/api?id=jfin002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
