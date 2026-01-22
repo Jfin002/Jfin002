@@ -1,44 +1,42 @@
-# 💫 About Me
+# Jeffin Paul
 
-I’m an **Electronics & Communication Engineer** with a strong interest in **embedded systems, IoT, and PCB design**. I enjoy turning ideas and datasheets into **reliable, working hardware** through hands-on projects.
-
-I’ve worked with **PIC and Arduino platforms**, explored **firmware development**, and built systems that combine hardware, software, and communication. Alongside core electronics, I’m design-aware and value **clear documentation and practical implementation**.
-
-I believe in **learning by building**, staying consistent, and continuously improving my skills to become **industry-ready**. I’m open to collaborating on **embedded systems, IoT, and electronics-based projects**.
+**Electronics & Communication Engineer**  
+Embedded Systems • IoT • PCB Design • VoIP
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_j.e.f.f.i.n_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffin-paul-9b3a0b226)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeffinjacob2002@gmail.com)
+## About
+I’m an Electronics & Communication Engineering graduate with a strong interest in **embedded systems, IoT, and PCB design**.  
+I enjoy building practical projects that combine hardware and software, and I focus on writing clean, reliable, and well-documented implementations.
+
+I have experience working with **PIC and Arduino platforms**, exploring **firmware development**, and learning industry tools and workflows.  
+I’m currently improving my embedded fundamentals and building more consistent project work on GitHub.
 
 ---
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+## Current Focus
+- Embedded firmware development (drivers, peripherals, debugging)
+- IoT prototyping and sensor-based systems
+- Improving project documentation and GitHub consistency
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jfin002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=jfin002&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfin002&theme=dark&hide_border=false&layout=compact)
+## Skills
+**Programming:** C, Python  
+**Embedded:** PIC, Arduino (learning STM32)  
+**Hardware & Tools:** PCB Design, MPLAB, HFSS  
+**Networking & VoIP:** 3CX, Basic Networking  
+**Other Tools:** MySQL, Power BI, Git, Jira, Figma, Canva
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Featured Projects
+- **RecycleSmart** — IoT-based reward system for bottle recycling  
+- **Motion-Based Message Conveyer** — Assistive communication system  
+- **Antenna Design (HFSS)** — Simulation and performance analysis  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jfin002&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect
+- LinkedIn: https://www.linkedin.com/in/jeffin-paul-9b3a0b226  
+- Email: mailto:jeffinjacob2002@gmail.com  
