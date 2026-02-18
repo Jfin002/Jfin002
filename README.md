@@ -6,27 +6,27 @@ Embedded Systems • IoT • PCB Design • VoIP
 ---
 
 ## About Me
-I am an Electronics & Communication Engineer with hands-on experience in embedded systems, microcontroller-based projects, and IoT applications.
+Electronics & Communication Engineer with hands-on experience in embedded systems, microcontroller-based projects, and IoT applications.
 
-I work with PIC and Arduino platforms and am currently strengthening my skills in firmware development, hardware interfacing, and system-level design.
+Experienced with PIC and Arduino platforms and currently strengthening skills in firmware development and hardware interfacing.
 
-My focus is on building reliable, well-documented, and industry-relevant embedded solutions.
+Focused on building reliable, well-documented, and industry-relevant embedded solutions.
 
 ---
 
 ## Technical Skills
 - Programming: C, Python  
-- Embedded Systems: PIC, Arduino (Learning STM32)  
-- Hardware & Tools: PCB Design, MPLAB, HFSS  
-- Networking & VoIP: 3CX, Basic Networking  
-- Other Tools: Git, Power BI, MySQL  
+- Embedded: PIC, Arduino (Learning STM32)  
+- Tools: PCB Design, MPLAB, HFSS  
+- Networking: 3CX, Basic Networking  
+- Others: Git, Power BI, MySQL  
 
 ---
 
 ## Current Focus
 - Embedded firmware development  
-- STM32-based system design  
-- Improving code quality and documentation  
+- STM32 system design  
+- Improving code quality  
 
 ---
 
