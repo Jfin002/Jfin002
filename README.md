@@ -15,11 +15,11 @@ Focused on building reliable, well-documented, and industry-relevant embedded so
 ---
 
 ## Technical Skills
-- Programming: C, Python  
-- Embedded: PIC, Arduino (Learning STM32)  
+- Programming: C, Embedded C, Python  
+- Embedded: PIC, Arduino, STM32, ARM
 - Tools: PCB Design, MPLAB, HFSS  
 - Networking: 3CX, Basic Networking  
-- Others: Git, Power BI, MySQL  
+- Others: GitHub, Power BI, MySQL  
 
 ---
 
